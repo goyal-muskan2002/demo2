@@ -1,0 +1,26 @@
+Login:
+
+SSO login : http://sso.lge.com/
+VLM Login : http://vlm.lge.com/
+sghsjgksdgjk
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+VCS collab page : http://collab.lge.com/main/display/LGSIVC/VCS+-+2023?src=contextnavpagetreemode
+Dashboard VCS : http://collab.lge.com/main/pages/viewpage.action?pageId=1898019377&src=contextnavpagetreemode
+LGSI Collab Page : http://collab.lge.com/main/display/LGSIADAS/
+MoM: http://collab.lge.com/main/pages/viewpage.action?pageId=1898950603&src=contextnavpagetreemodeDefective
+Defect dashboard : http://collab.lge.com/main/pages/viewpage.action?pageId=1898950011&src=contextnavpagetreemode
+Action items : http://collab.lge.com/main/pages/viewpage.action?pageId=1898950926&src=contextnavpagetreemode
+Sprint pages : http://collab.lge.com/main/pages/viewpage.action?pageId=1919634890&src=contextnavpagetreemode
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+DSM Links
+
+HQ Tickets : http://vlm.lge.com/issue/issues/?filter=169720
+OEM Tickets :https://issue.swf.daimler.com/issues/?filter=31187
+Kanban : http://vlm.lge.com/issue/secure/RapidBoard.jspa?rapidView=6757
+MoM : http://collab.lge.com/main/pages/viewpage.action?pageId=1898950603&src=contextnavpagetreemodeDefective
+Defective Dashboard : http://collab.lge.com/main/pages/viewpage.action?pageId=1898950011
+VCS NDM : http://collab.lge.com/main/display/LGSIVC/1.4.+2023+-+VCS+-+Nice+Day+Meeting
+Team Learning : http://collab.lge.com/main/display/LGSIADAS/Team+Learning+Details
+mmmmm
